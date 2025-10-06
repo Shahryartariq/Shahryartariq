@@ -48,7 +48,7 @@ I'm open to collaboration on challenging projects, especially those involving sc
 ## 📫 Connect with Me
 - **GitHub**: [Shahryartariq](https://github.com/Shahryartariq)
 - **LinkedIn**: [muhammadshehryartariq](https://www.linkedin.com/in/muhammadshehryartariq/)
-- **Portfolio**: [Portfolio](https://shehryartariq.com/)
+- **Portfolio**: [Portfolio](https://shehryar-tariq.dev/)
 
 ## ⚡ Fun Fact
 I'm a Linux enthusiast and love trying out new distributions!
