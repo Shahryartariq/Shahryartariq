@@ -1,6 +1,7 @@
 # Hi, I'm Muhammad Shehryar 👋
 
-I'm a passionate **Software Engineer** skilled in building full-stack applications, DevOps automation, and working with cloud platforms. My expertise spans across frontend and backend technologies, cloud services, DevOps, and more, allowing me to develop robust, scalable solutions.
+Full Stack Developer with expertise in building scalable, secure, and responsive web applications. Proficient in JavaScript, TypeScript, React, Next.js, Vue.js, Node.js, and Rust, with strong experience in designing RESTful APIs, architecting databases, and leveraging cloud platforms including AWS, Azure, and Google Cloud. Skilled in developing modern, responsive UIs with Tailwind CSS, ShadCN, and Material UI, while ensuring high performance, security, and scalability across diverse projects.
+
 
 ---
 
