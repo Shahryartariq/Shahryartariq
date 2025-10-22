@@ -29,14 +29,13 @@ Full Stack Developer with expertise in building scalable, secure, and responsive
 - **Languages**: JavaScript, Rust, Python, C++, PHP, Shell/Bash Scripting
 
 ### Cloud Technologies
-- **Platforms**: AWS EC2, Google Cloud Platform (VMs), Heroku, Netlify
+- **Platforms**: AWS EC2, Google Cloud Platform (VMs), Vercel, Render
 - **Microsoft Azure**: Azure Graph APIs
 
 ### Additional Skills
 - **Security**: Hashing algorithms, Web penetration testing
-- **Tools**: Linux, Postman
+- **Tools**: Linux, Postman, Doppler
 - **CMS**: WordPress
-- **Networking**: Computer networks, hardware
 
 ---
 
