@@ -8,8 +8,8 @@ Full Stack Developer with expertise in building scalable, secure, and responsive
 ## 🛠️ My Technical Stack
 
 ### Frontend Development
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: Vue.js, React.js
+- **Languages**: JavaScript, Typescript, Python, Rust, C++
+- **Frameworks/Libraries**: Vue.js, React.js, Nodejs, ExpressJs, NextJs
 - **Styling**: Bootstrap, Tailwind CSS
 
 ### Backend Development
