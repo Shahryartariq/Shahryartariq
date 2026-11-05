@@ -1,58 +1,40 @@
-# Hi, I'm Muhammad Shehryar 👋
+# Hi, I'm Muhammad Shehryar (Sherry)
 
-Full Stack Developer with expertise in building scalable, secure, and responsive web applications. Proficient in JavaScript, TypeScript, React, Next.js, Vue.js, Node.js, and Rust, with strong experience in designing RESTful APIs, architecting databases, and leveraging cloud platforms including AWS, Azure, and Google Cloud. Skilled in developing modern, responsive UIs with Tailwind CSS, ShadCN, and Material UI, while ensuring high performance, security, and scalability across diverse projects.
+Full-stack developer in Islamabad, Pakistan. I build fast, accessible web apps with **TypeScript, React, Next.js, Node.js and Django**, and ship them to production with tests, CI and a live URL. Right now I'm going deeper into **blockchain and AI**.
 
-
----
-
-## 🛠️ My Technical Stack
-
-### Frontend Development
-- **Languages**: JavaScript, Typescript, Python, Rust, C++
-- **Frameworks/Libraries**: Vue.js, React.js, Nodejs, ExpressJs, NextJs
-- **Styling**: Bootstrap, Tailwind CSS
-
-### Backend Development
-- **Frameworks**: Actix (Rust), Node.js
-- **API Design**: RESTful APIs, OAuth 2.0
-
-### DevOps & CI/CD
-- **Containers**: Docker, Podman
-- **CI/CD**: Jenkins
-- **Version Control**: Git, GitHub, Bitbucket
-
-### Databases
-- **Relational Databases**: PostgreSQL (with Diesel ORM), MySQL
-- **NoSQL Databases**: MongoDB
-
-### Programming Languages
-- **Languages**: JavaScript, Rust, Python, C++, PHP, Shell/Bash Scripting
-
-### Cloud Technologies
-- **Platforms**: AWS EC2, Google Cloud Platform (VMs), Vercel, Render
-- **Microsoft Azure**: Azure Graph APIs
-
-### Additional Skills
-- **Security**: Hashing algorithms, Web penetration testing
-- **Tools**: Linux, Postman, Doppler
-- **CMS**: WordPress
+[Portfolio](https://shehryar-tariq.dev/) · [LinkedIn](https://www.linkedin.com/in/muhammadshehryartariq/)
 
 ---
 
-## 🌱 Current Focus
-I’m currently enhancing my skills in **Rust and Actix** for backend development and delving into advanced **DevOps practices** for more efficient cloud-native solutions.
+## Live projects
 
-## 👯 Let’s Collaborate!
-I'm open to collaboration on challenging projects, especially those involving scalable web applications, cloud infrastructure, and distributed systems. Let’s build something impactful together!
+| Project | What it does | Stack |
+|---|---|---|
+| **[Hashwire](https://github.com/Shahryartariq/hashwire)** · [live](https://hashwire.vercel.app) | Crypto news by blockchain. 22 networks, each with its own page, live price and 24h change. Reads 13 sources every 15 minutes and groups reports of the same story. | Next.js 16, TypeScript, CoinGecko API, Vitest, Playwright |
+| **[Tensorwire](https://github.com/Shahryartariq/tensorwire)** · [live](https://tensorwire.vercel.app) | Today's AI news in one feed. 18 sources from AI labs, press and builders, with official lab posts marked and duplicate coverage grouped. | Next.js 16, TypeScript, RSS/Atom parsing, Vitest, Playwright |
+| **[Skycast](https://github.com/Shahryartariq/skycast)** · [live](https://getskycast.vercel.app) | Weather for any city: now, next 24 hours, 5-day forecast and air quality, with a page for each major city. | Next.js 16, TypeScript, OpenWeather API, Vitest, Playwright |
+| **[TidyText](https://github.com/Shahryartariq/TidyText)** · [live](https://tidytext.vercel.app) | Free, private text cleaner. Fixes PDF line breaks, removes extra spaces and duplicates, fixes grammar, paraphrases and counts words, all in the browser. | Django, vanilla JS, Transformers.js, Docker |
 
-## 📫 Connect with Me
-- **GitHub**: [Shahryartariq](https://github.com/Shahryartariq)
-- **LinkedIn**: [muhammadshehryartariq](https://www.linkedin.com/in/muhammadshehryartariq/)
-- **Portfolio**: [Portfolio](https://shehryar-tariq.dev/)
+**What the Next.js apps have in common:** strict TypeScript, unit and end-to-end tests on desktop and mobile (including automated accessibility checks), GitHub Actions CI, a strict Content Security Policy, SEO basics (sitemap, Open Graph images, canonical URLs) and Lighthouse scores of 100 for accessibility, best practices and SEO.
 
-## ⚡ Fun Fact
-I'm a Linux enthusiast and love trying out new distributions!
+## Other work
 
----
+- **[FL_Research_Demo](https://github.com/Shahryartariq/FL_Research_Demo)**: research demo that uses smart contracts to secure federated learning.
+- **[Classly](https://github.com/Shahryartariq/Classly)**: full-stack app on the PERN stack (PostgreSQL, Express, React, Node).
+- **[ZapCall](https://github.com/Shahryartariq/zapcall)**: peer-to-peer video calls with WebRTC.
+- **[ZapChat](https://github.com/Shahryartariq/ZapChat)**: real-time chat app built with React.
+- **[NextPress](https://github.com/Shahryartariq/NextPress)**: full-stack blog built with Next.js.
 
-> Let’s connect and create something amazing! 🚀
+## Tech I use
+
+- **Languages:** TypeScript, JavaScript, Python, Rust, SQL
+- **Frontend:** React, Next.js (App Router, Server Components), Tailwind CSS, accessible HTML and CSS
+- **Backend:** Node.js, Express, Django, REST APIs, OAuth 2.0
+- **Data:** PostgreSQL, MySQL, MongoDB
+- **Testing and quality:** Vitest, Playwright, axe-core, Lighthouse
+- **DevOps:** Docker, GitHub Actions, Jenkins, Linux, Vercel, AWS EC2, Google Cloud
+- **Learning now:** blockchain (smart contracts, on-chain data) and applied AI
+
+## Get in touch
+
+Open to full-stack roles and freelance work. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/muhammadshehryartariq/).
